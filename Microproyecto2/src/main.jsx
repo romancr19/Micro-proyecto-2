@@ -6,6 +6,7 @@ import { HomePage } from './pages/HomePage/HomePage'
 import { RegisterPage } from './pages/RegisterPage/RegisterPage'
 import { LoginPage } from './pages/LoginPage/LoginPage'
 import './index.css'
+import './firebase.jsx'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
