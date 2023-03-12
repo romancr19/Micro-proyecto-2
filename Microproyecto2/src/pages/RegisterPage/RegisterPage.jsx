@@ -48,7 +48,6 @@ export function RegisterPage() {
           <button
             type="submit"
             className={styles.submit}
-            Click={Submit}
           >
             Registrar
           </button>
